@@ -25,11 +25,18 @@ Perform following iteration steps:
 |         |  l n x z   |    |
 |         |     |         |
 
-Input File structure:
+### Input File structure:
 	K    N    MaxIterations
+ 
 	SubString
+ 
 	String1
+ 
 	String2
+ 
 	String3
+ 
 	. . .
+ 
 	StringK2
+ 
